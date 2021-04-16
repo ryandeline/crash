@@ -11,7 +11,7 @@ This document is a running dataset with cleaned Lat Long coordinants provided by
 
 ## v.2 - 03.23.2021
 soc.collision.py created as a basic cleaner module 
-	### Stage One Processing: Removes points outside of a rough MACOG area of interest 
+	Stage One Processing: Removes points outside of a rough MACOG area of interest 
 	### Stage One Processing: Adds updated street names and zip codes columns based on open  street maps pull 
 	### Stage One Processing: Creates an updated Roadway column from Roadway ID & Roadway Suffix that can be used to compare against pulled data 
 	### Stage One Processing: Creates and Intersecting Road column with combined data from Intersecting Road & Intersecting Road Number 
